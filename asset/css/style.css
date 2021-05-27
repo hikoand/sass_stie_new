@@ -405,6 +405,13 @@ table td {
   border-top: 1px solid #b8944d;
 }
 
+.subpage main .container .inner.kakao_map {
+  margin-top: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .subpage main .container .inner table {
   margin-top: 50px;
 }
